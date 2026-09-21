@@ -6,7 +6,8 @@
     <groupId>com.library</groupId>
     <artifactId>LibraryRegistration</artifactId>
     <version>1.0</version>
-    
+
+    <packaging>war</packaging>
 
     <dependencies>
         <!-- JSP API -->
